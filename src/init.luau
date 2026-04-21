@@ -4,6 +4,7 @@ local VideKit = {}
 
 VideKit.BillboardGui = require(Components.BillboardGui)
 VideKit.ScreenGui = require(Components.ScreenGui)
+VideKit.SurfaceGui = require(Components.SurfaceGui)
 
 VideKit.CanvasGroup = require(Components.CanvasGroup)
 VideKit.Frame = require(Components.Frame)
