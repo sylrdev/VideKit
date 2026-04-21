@@ -31,5 +31,6 @@ VideKit.PageLayout = require(Components.PageLayout)
 VideKit.TableLayout = require(Components.TableLayout)
 
 VideKit.AutoScale = require(Components.AutoScale)
+VideKit.UniformPadding = require(Components.UniformPadding)
 
 return VideKit
