@@ -9,5 +9,8 @@ VideKit.Frame = require(Components.Frame)
 
 VideKit.AspectRatioConstraint = require(Components.AspectRatioConstraint)
 VideKit.Corner = require(Components.Corner)
+VideKit.FlexItem = require(Components.FlexItem)
+
+VideKit.ListLayout = require(Components.ListLayout)
 
 return VideKit
