@@ -7,6 +7,7 @@ VideKit.BillboardGui = require(Components.BillboardGui)
 VideKit.CanvasGroup = require(Components.CanvasGroup)
 VideKit.Frame = require(Components.Frame)
 VideKit.ImageButton = require(Components.ImageButton)
+VideKit.ImageLabel = require(Components.ImageLabel)
 
 VideKit.AspectRatioConstraint = require(Components.AspectRatioConstraint)
 VideKit.Corner = require(Components.Corner)
