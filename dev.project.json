@@ -1,0 +1,17 @@
+{
+	"name": "vide-kit",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"VideKit": {
+				"$path": "./include/Standalone.luau",
+				"Packages": {
+					"$path": "./Packages/",
+					"VideKit": {
+						"$path": "./src/"
+					}
+				}
+			}
+		}
+	}
+}
