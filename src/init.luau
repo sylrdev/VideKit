@@ -3,6 +3,7 @@ local Components = script.Components
 local VideKit = {}
 
 VideKit.BillboardGui = require(Components.BillboardGui)
+VideKit.ScreenGui = require(Components.ScreenGui)
 
 VideKit.CanvasGroup = require(Components.CanvasGroup)
 VideKit.Frame = require(Components.Frame)
