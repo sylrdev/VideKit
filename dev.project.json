@@ -1,5 +1,5 @@
 {
-	"name": "vide-kit-dev",
+	"name": "videkit-dev",
 	"tree": {
 		"$className": "DataModel",
 		"ReplicatedStorage": {
