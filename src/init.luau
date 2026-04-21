@@ -1,3 +1,5 @@
+local Types = require(script.Types)
+
 local Components = script.Components
 
 local VideKit = {}
@@ -32,5 +34,7 @@ VideKit.TableLayout = require(Components.TableLayout)
 
 VideKit.AutoScale = require(Components.AutoScale)
 VideKit.UniformPadding = require(Components.UniformPadding)
+
+export type Prop<T> = Types.Prop<T>
 
 return VideKit
