@@ -11,6 +11,7 @@ VideKit.AspectRatioConstraint = require(Components.AspectRatioConstraint)
 VideKit.Corner = require(Components.Corner)
 VideKit.FlexItem = require(Components.FlexItem)
 VideKit.Padding = require(Components.Padding)
+VideKit.Scale = require(Components.Scale)
 
 VideKit.ListLayout = require(Components.ListLayout)
 VideKit.PageLayout = require(Components.PageLayout)
