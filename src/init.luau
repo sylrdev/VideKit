@@ -13,6 +13,7 @@ VideKit.ImageLabel = require(Components.ImageLabel)
 VideKit.ScrollingFrame = require(Components.ScrollingFrame)
 VideKit.TextBox = require(Components.TextBox)
 VideKit.TextButton = require(Components.TextButton)
+VideKit.TextLabel = require(Components.TextLabel)
 
 VideKit.AspectRatioConstraint = require(Components.AspectRatioConstraint)
 VideKit.Corner = require(Components.Corner)
