@@ -13,5 +13,6 @@ VideKit.FlexItem = require(Components.FlexItem)
 VideKit.Padding = require(Components.Padding)
 
 VideKit.ListLayout = require(Components.ListLayout)
+VideKit.PageLayout = require(Components.PageLayout)
 
 return VideKit
