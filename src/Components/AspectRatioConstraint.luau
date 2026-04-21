@@ -8,7 +8,6 @@ local Types = require(VideKit.Types)
 local create = Vide.create
 
 local function AspectRatioConstraint(props: Props)
-	-- TODO strict interface check
 	assert(T.table(props))
 
 	return create("UIAspectRatioConstraint")(props)

@@ -7,7 +7,6 @@ local Types = require(script.Parent.Parent.Types)
 local create = Vide.create
 
 local function Frame(props: Props)
-	-- TODO strict interface check
 	assert(T.table(props))
 
 	return create("Frame")(props)
