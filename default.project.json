@@ -1,0 +1,6 @@
+{
+	"name": "videkit",
+	"tree": {
+		"$path": "./src/"
+	}
+}

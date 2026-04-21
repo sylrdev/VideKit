@@ -1,8 +1,15 @@
 [package]
-name = "sylr/videkit"
+name = "sylrdev/videkit"
+description = "Base vide components to speed up development."
 version = "0.1.0"
+license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+repository = "https://github.com/sylrdev/VideKit"
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json","wally.lock", "wally.toml"]
 
 [dependencies]
 Vide = "centau/vide@0.4.0"
+T = "osyrisrblx/t@3.1.1"
+Tailwind = "virtualbutfake/tailwind@0.1.1"
