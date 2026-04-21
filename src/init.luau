@@ -30,4 +30,6 @@ VideKit.ListLayout = require(Components.ListLayout)
 VideKit.PageLayout = require(Components.PageLayout)
 VideKit.TableLayout = require(Components.TableLayout)
 
+VideKit.AutoScale = require(Components.AutoScale)
+
 return VideKit
