@@ -8,5 +8,6 @@ VideKit.CanvasGroup = require(Components.CanvasGroup)
 VideKit.Frame = require(Components.Frame)
 
 VideKit.AspectRatioConstraint = require(Components.AspectRatioConstraint)
+VideKit.Corner = require(Components.Corner)
 
 return VideKit
