@@ -24,5 +24,6 @@ VideKit.Stroke = require(Components.Stroke)
 VideKit.GridLayout = require(Components.GridLayout)
 VideKit.ListLayout = require(Components.ListLayout)
 VideKit.PageLayout = require(Components.PageLayout)
+VideKit.TableLayout = require(Components.TableLayout)
 
 return VideKit
