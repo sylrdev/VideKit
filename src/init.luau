@@ -23,6 +23,7 @@ VideKit.Padding = require(Components.Padding)
 VideKit.Scale = require(Components.Scale)
 VideKit.SizeConstraint = require(Components.SizeConstraint)
 VideKit.Stroke = require(Components.Stroke)
+VideKit.TextSizeConstraint = require(Components.TextSizeConstraint)
 
 VideKit.GridLayout = require(Components.GridLayout)
 VideKit.ListLayout = require(Components.ListLayout)
